@@ -1,0 +1,69 @@
+# .NET build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Configuration files for Visual Studio
+.vscode/
+*.vs/
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Backup & temporary files
+*.bak
+*.log
+*.tmp
+*.temp
+*.log*
+
+# NuGet packages
+packages/
+*.nupkg
+# Uncomment if using the global packages folder (requires setting environment variable)
+# %USERPROFILE%\.nuget\packages\
+
+# Azure Pipelines
+*.PublishProfiles/
+
+# Resharper settings
+_ReSharper*/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code & other IDE settings
+.vscode/
+.ionide/
+
+# Coverage and Test Results
+*.coverage
+*.coveragexml
+*.testsettings
+*.trx
+
+# DotNet User Level Items
+.dotnet/
+.dotnet-tools/
+
+# temp files
+*.pidb
+*.booproj
+*.svd
+
+# OS generated files
+.DS_Store
+Thumbs.db
