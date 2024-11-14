@@ -1,0 +1,14 @@
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\bin\Debug\net8.0\Gym management project.exe
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\bin\Debug\net8.0\Gym management project.deps.json
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\bin\Debug\net8.0\Gym management project.runtimeconfig.json
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\bin\Debug\net8.0\Gym management project.dll
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\bin\Debug\net8.0\Gym management project.pdb
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\obj\Debug\net8.0\Gym management project.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\obj\Debug\net8.0\Gym management project.AssemblyInfoInputs.cache
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\obj\Debug\net8.0\Gym management project.AssemblyInfo.cs
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\obj\Debug\net8.0\Gym management project.csproj.CoreCompileInputs.cache
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\obj\Debug\net8.0\Gym management project.dll
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\obj\Debug\net8.0\refint\Gym management project.dll
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\obj\Debug\net8.0\Gym management project.pdb
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\obj\Debug\net8.0\Gym management project.genruntimeconfig.cache
+C:\LAB\Koodaus\Olio_ohjelmointi\Gym management 2024\Gym management project\obj\Debug\net8.0\ref\Gym management project.dll

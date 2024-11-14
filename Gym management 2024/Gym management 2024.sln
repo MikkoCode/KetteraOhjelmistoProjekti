@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gym management project", "Gym management project\Gym management project.csproj", "{AF30CA0E-51C9-4592-8212-D6094E8AFA6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DOCS", "DOCS", "{DADA1EE7-D33D-4FC8-8C8F-E24DDF407B71}"
+	ProjectSection(SolutionItems) = preProject
+		Gym management project\Database_schema.txt = Gym management project\Database_schema.txt
+		Gym management project\Read_Me.txt = Gym management project\Read_Me.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF30CA0E-51C9-4592-8212-D6094E8AFA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF30CA0E-51C9-4592-8212-D6094E8AFA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF30CA0E-51C9-4592-8212-D6094E8AFA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF30CA0E-51C9-4592-8212-D6094E8AFA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24232044-2474-48A0-BF83-9FDB5704C299}
+	EndGlobalSection
+EndGlobal
